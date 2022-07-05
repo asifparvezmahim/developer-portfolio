@@ -115,3 +115,12 @@ footer {
     border-left: 7px solid tomato;
     border-right: 7px solid blue;
 }
+
+.com {
+    font-size: 30px;
+}
+
+#link-com {
+    padding-right: 50px;
+
+}
