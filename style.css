@@ -80,3 +80,38 @@ h2 {
 footer {
     text-align: center;
 }
+
+.projects {
+    display: flex;
+    margin-left: 170px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+
+.advance {
+    margin-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 100px;
+    box-shadow: 10px 10px 10px 10px gray;
+    border-left: 7px solid blue;
+    border-radius: 10px;
+}
+
+.normal {
+    padding-right: 200px;
+    padding-bottom: 30px;
+    box-shadow: 10px 10px 10px 10px gray;
+    border-left: 7px solid tomato;
+    border-radius: 10px;
+
+}
+
+footer {
+    box-shadow: 10px 10px 10px 10px gray;
+    width: 50%;
+    margin-left: 400px;
+    border-left: 7px solid tomato;
+    border-right: 7px solid blue;
+}
