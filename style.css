@@ -13,6 +13,7 @@ h2 {
 
 .orange-colour {
     color: orange;
+
 }
 
 .flexible {
@@ -123,4 +124,8 @@ footer {
 #link-com {
     padding-right: 50px;
 
+}
+
+.gallary {
+    color: black;
 }
